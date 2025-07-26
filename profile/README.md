@@ -139,8 +139,7 @@ KancraOne is released under the **MIT License** unless otherwise specified. See 
 
 This project is maintained by:
 
-- **Putra Mahardika** – Lead Architect and Founder  
-- [And amazing open-source contributors](https://github.com/your-org/kancraone/graphs/contributors)
+- **Putra Mahardika** – Founder  
 
 ---
 
